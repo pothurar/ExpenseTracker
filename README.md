@@ -9,6 +9,8 @@ With ExpenseTracker, you can conveniently log your expenses anytime, anywhere, w
 
 ## Video Link
 
+https://mailuc-my.sharepoint.com/:v:/g/personal/kudakasa_mail_uc_edu/EVAW2pSqXRFOqMcJRtPPfPQBH08MTbObRzk1YoRi3xVS4A?e=7CTmwP
+
 ## App Description
 
 The application is divided into 3 parts
