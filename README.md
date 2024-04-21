@@ -44,6 +44,6 @@ In the same way user enters his expenses in the categories section.
 
 Now when the users navigates to the Overview section it calculates his savings for them.
 
-<img src="Final_Report.jpg" alt="Categories" width="300">
+<img src="Images/Final_Report.jpg" alt="Categories" width="300">
 
 
