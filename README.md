@@ -33,3 +33,17 @@ First The user enters the type of income. In this case it is Salary.
 Then the user enters his salary (800)
 
 <img src="Images/Adding_Salary2.jpg" alt="Adding Salary as Income" width="300">
+
+Users enters all their Incomes 
+
+<img src="Images/Income.jpg" alt=" Income" width="300">
+
+In the same way user enters his expenses in the categories section.
+
+<img src="Images/Categories.jpg" alt="Categories" width="300">
+
+Now when the users navigates to the Overview section it calculates his savings for them.
+
+<img src="Final_Report.jpg" alt="Categories" width="300">
+
+
