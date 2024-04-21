@@ -40,7 +40,7 @@ Users enters all their Incomes
 
 In the same way user enters his expenses in the categories section.
 
-<img src="Images/Categories.jpg" alt="Categories" width="300">
+<img src="Images/Expenses.jpg" alt="Categories" width="300">
 
 Now when the users navigates to the Overview section it calculates his savings for them.
 
