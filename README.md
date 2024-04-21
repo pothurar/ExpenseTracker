@@ -4,5 +4,5 @@ With ExpenseTracker, you can conveniently log your expenses anytime, anywhere, w
 
 The application is divided into 3 parts
 1. Categories
-   ![first](Images/categories_Initial.jpg)
+   ![first](Images/Categories_Initial.jpg)
    
